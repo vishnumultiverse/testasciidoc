@@ -339,4 +339,16 @@ Item 1 here
 Item 2 here
 ----
 
-Content below the checklist
+Content below the checklist  
+
+
+
+---
+This is a block
+
+[source,python]
+===
+def foo(a,b):
+    pass
+===
+---
