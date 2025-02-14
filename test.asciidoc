@@ -1,0 +1,24 @@
+[source,python]
+----
+def outer_function():
+    print("Hello from outer function")
+
+    [source,c]
+    ....
+    #include<stdio.h>
+    int main() {
+        printf("Hello from C!");
+        
+        [source,javascript]
+        ____
+        console.log("Hello from JavaScript!");
+        ____
+        
+        return 0;
+    }
+    ....
+    
+outer_function()
+----
+
+Preview this
