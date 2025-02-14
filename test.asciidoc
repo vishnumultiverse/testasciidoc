@@ -43,7 +43,10 @@ ____
 
 Even complex math formulas:
 
-latexmath:[S (ω)=1.466\, H_s^2 \,  \frac{ω_0^5}{ω^6 }  \, e^[-3^ { ω/(ω_0  )]^2}]
+[stem]
+++++
+S (ω)=1.466\, H_s^2 \, \frac{ω_0^5}{ω^6 } \, e^[-3^ { ω/(ω_0 )}^2]
+++++
 
 We can use `inline code` when talking about technical terms such as `https`.
 
